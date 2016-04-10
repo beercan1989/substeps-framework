@@ -1,4 +1,4 @@
-substeps-framework [![Build Status](https://travis-ci.org/Substeps/substeps-framework.svg)](https://travis-ci.org/Substeps/substeps-framework)&nbsp;[![Maven Central](https://img.shields.io/maven-central/v/org.substeps/substeps-framework/badge.png)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.substeps)
+substeps-framework [![Build Status](https://travis-ci.org/Substeps/substeps-framework.svg)](https://travis-ci.org/Substeps/substeps-framework)&nbsp;[![Maven Central](https://img.shields.io/maven-central/v/org.substeps/substeps-framework.png)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.substeps)
 ===================
 
 Welcome to the substeps-framework project!
